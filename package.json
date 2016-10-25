@@ -1,5 +1,5 @@
 {
-  "name": "simple-pubsub",
+  "name": "node-simple-pubsub",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
