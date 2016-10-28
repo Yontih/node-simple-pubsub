@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/Yontih/node-simple-pubsub#readme",
   "dependencies": {
-    "aws-sdk": "^2.6.12",
     "bluebird": "^3.4.6",
     "lodash": "^4.16.4",
     "redis": "^2.6.2",
